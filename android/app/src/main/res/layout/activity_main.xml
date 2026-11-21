@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/pageScroll" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:background="@drawable/edge_v4_background" android:overScrollMode="never" android:clipToPadding="false">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:paddingLeft="24dp" android:paddingRight="24dp" android:paddingTop="62dp" android:paddingBottom="40dp">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
+            <LinearLayout android:layout_width="142dp" android:layout_height="66dp" android:gravity="center" android:padding="7dp" android:background="@drawable/edge_v5_logo_back">
+                <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/srm_logo_white" android:scaleType="fitCenter" android:contentDescription="SRM Institute of Science and Technology logo" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="vertical" android:paddingLeft="10dp">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="EdgeShield AI" android:textSize="22sp" android:textColor="#101D3B" android:fontFamily="sans-serif-medium" android:textStyle="bold" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ON-DEVICE SMS SECURITY" android:textSize="10sp" android:textColor="#63738C" android:letterSpacing="0.08" android:layout_marginTop="1dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:layout_marginTop="26dp" android:padding="18dp" android:background="@drawable/edge_v4_engine">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="vertical">
+                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="01   ENGINE" android:textSize="10sp" android:textColor="#4A61A6" android:letterSpacing="0.16" android:fontFamily="sans-serif-medium" />
+                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="AI inference engine" android:textSize="18sp" android:textColor="#12234C" android:fontFamily="sans-serif-medium" android:textStyle="bold" android:layout_marginTop="6dp" />
+                </LinearLayout>
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="LLAMA 3.2" android:textSize="10sp" android:textColor="#294DD9" android:fontFamily="sans-serif-medium" android:background="@drawable/edge_v4_chip" android:paddingLeft="10dp" android:paddingRight="10dp" android:paddingTop="8dp" android:paddingBottom="8dp" />
+            </LinearLayout>
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Initialize the on-device language model before analysing messages." android:textSize="12sp" android:textColor="#63738A" android:layout_marginTop="8dp" />
+            <Button android:id="@+id/loadButton" android:layout_width="match_parent" android:layout_height="54dp" android:text="Load on-device AI" android:textAllCaps="false" android:textSize="14sp" android:textStyle="bold" android:fontFamily="sans-serif-medium" android:textColor="#FFFFFF" android:background="@drawable/edge_v4_load" android:stateListAnimator="@null" android:layout_marginTop="14dp" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Preparing offline models…" android:textSize="12sp" android:textColor="#52647D" android:id="@+id/statusText" android:layout_marginTop="12dp" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:layout_marginTop="18dp" android:padding="18dp" android:background="@drawable/edge_v4_card">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="vertical">
+                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="02  /  INPUT" android:textSize="10sp" android:textColor="#4A61A6" android:letterSpacing="0.16" android:fontFamily="sans-serif-medium" />
+                </LinearLayout>
+                <TextView android:id="@+id/characterCount" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0 characters" android:textSize="11sp" android:textColor="#7B899C" />
+            </LinearLayout>
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Message for analysis" android:textSize="19sp" android:textColor="#12234C" android:fontFamily="sans-serif-medium" android:textStyle="bold" android:layout_marginTop="8dp" />
+            <EditText android:id="@+id/smsInput" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:minHeight="128dp" android:gravity="top|start" android:padding="16dp" android:inputType="textMultiLine|textCapSentences" android:background="@drawable/edge_v4_input" android:textColor="#17283F" android:textColorHint="#8B97A9" android:textSize="15sp" android:fontFamily="sans-serif" android:lineSpacingExtra="5dp" android:hint="Paste an SMS or type it here…" />
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical" android:layout_marginTop="12dp">
+                <Button android:id="@+id/pasteButton" android:layout_width="0dp" android:layout_weight="1" android:layout_height="44dp" android:text="Paste message" android:textAllCaps="false" android:textSize="12sp" android:fontFamily="sans-serif-medium" android:textColor="#334D91" android:background="@drawable/edge_v4_secondary" android:stateListAnimator="@null" />
+                <Button android:id="@+id/clearButton" android:layout_width="92dp" android:layout_height="44dp" android:layout_marginLeft="10dp" android:text="Clear" android:textAllCaps="false" android:textSize="12sp" android:textColor="#65758B" android:background="@drawable/edge_v4_secondary" android:stateListAnimator="@null" />
+            </LinearLayout>
+            <Button android:id="@+id/generateButton" android:layout_width="match_parent" android:layout_height="54dp" android:text="Analyse message" android:textAllCaps="false" android:textSize="14sp" android:textStyle="bold" android:fontFamily="sans-serif-medium" android:textColor="#FFFFFF" android:background="@drawable/edge_v4_analyse" android:stateListAnimator="@null" android:layout_marginTop="14dp" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:id="@+id/resultPanel" android:layout_marginTop="18dp" android:padding="18dp" android:background="@drawable/edge_v4_card">
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="03   SECURITY ASSESSMENT" android:textSize="10sp" android:textColor="#4A61A6" android:letterSpacing="0.15" android:fontFamily="sans-serif-medium" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Security assessment" android:textSize="22sp" android:textColor="#12234C" android:fontFamily="sans-serif-medium" android:textStyle="bold" android:layout_marginTop="8dp" />
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:layout_marginTop="16dp" android:padding="16dp" android:background="@drawable/edge_v4_result">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="No analysis performed" android:textSize="17sp" android:textColor="#17283F" android:fontFamily="sans-serif-medium" android:textStyle="bold" android:id="@+id/riskText" />
+            </LinearLayout>
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="20dp" android:layout_marginBottom="18dp" android:background="#E5E9F1" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="AI-GENERATED EXPLANATION" android:textSize="11sp" android:textColor="#294DD9" android:fontFamily="sans-serif-medium" android:letterSpacing="0.10" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="The model-generated assessment will appear here after analysis." android:textSize="15sp" android:textColor="#43536C" android:layout_marginTop="11dp" android:lineSpacingExtra="6dp" android:id="@+id/outputText" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="" android:textSize="12sp" android:textColor="#8190A2" android:layout_marginTop="14dp" android:id="@+id/timingText" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:layout_marginTop="28dp" android:gravity="center">
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="EDGESHIELD AI  /  ON-DEVICE SECURITY" android:textSize="10sp" android:textColor="#708099" android:letterSpacing="0.13" android:gravity="center" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Developed by" android:textSize="11sp" android:textColor="#708099" android:layout_marginTop="12dp" android:gravity="center" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Jagaputhran S&#10;Keerthivasan Krishnamoorthy&#10;Kartikeya Aripirala" android:textSize="13sp" android:fontFamily="sans-serif-medium" android:textColor="#263B62" android:layout_marginTop="8dp" android:gravity="center" android:lineSpacingExtra="4dp" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Guide: Dr. R Jansi" android:textSize="12sp" android:fontFamily="sans-serif-medium" android:textColor="#4A61A6" android:layout_marginTop="12dp" android:gravity="center" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

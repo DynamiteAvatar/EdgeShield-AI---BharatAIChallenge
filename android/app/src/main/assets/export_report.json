@@ -1,0 +1,11 @@
+{
+  "format": "edgeshield-linear-svm-v1",
+  "word_features": 60000,
+  "character_features": 100000,
+  "total_features": 160000,
+  "reference_messages": 120,
+  "max_score_difference": 1.1546319456101628e-14,
+  "export_size_mb": 1.982,
+  "sha256": "296de785963ca27f45abe87c4344812dfd9a0407b093cf02a92ee9b9806a4434",
+  "status": "python_export_verified"
+}

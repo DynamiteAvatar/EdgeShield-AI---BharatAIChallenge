@@ -1,0 +1,25 @@
+
+EDGESHIELD AI — DATASET SOURCES
+
+1. SCAMSHIELD DATASET
+Source: Hugging Face
+Repository:
+https://huggingface.co/datasets/sidzzz07/scamshield-dataset
+
+Expected source files:
+scamshield/train.parquet
+scamshield/validation.parquet
+scamshield/test.parquet
+
+2. SMS PHISHING DATASET
+Source: NLM Dataset Catalog / Mendeley Data
+Catalog ID: 0001449541
+
+Expected local filename:
+mendeley_phishing.csv
+
+NOTE:
+Download the original datasets from their respective
+sources and check their usage licenses.
+
+Run the preprocessing scripts before model training.

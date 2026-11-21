@@ -1,0 +1,68 @@
+
+plugins {
+    alias(libs.plugins.android.application)
+}
+
+android {
+    namespace 'com.edgeshield.executorch'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.edgeshield.executorch"
+
+        minSdk 26
+        targetSdk 35
+
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        ndk {
+            abiFilters 'arm64-v8a'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+
+            proguardFiles(
+                    getDefaultProguardFile(
+                            'proguard-android-optimize.txt'
+                    ),
+                    'proguard-rules.pro'
+            )
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    androidResources {
+        // Keep model assets in the APK.
+        // Do not exclude JSON, GZIP, or other assets.
+
+        noCompress += ['pte', 'json', 'gz']
+    }
+
+    packaging {
+        jniLibs {
+            useLegacyPackaging = true
+        }
+    }
+}
+
+dependencies {
+    implementation libs.appcompat
+    implementation libs.material
+
+    // ExecuTorch Android runtime
+    implementation 'org.pytorch:executorch-android:1.5.1'
+
+    testImplementation libs.junit
+    androidTestImplementation libs.ext.junit
+    androidTestImplementation libs.espresso.core
+}

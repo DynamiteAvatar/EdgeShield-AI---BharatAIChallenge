@@ -1,0 +1,962 @@
+[
+  {
+    "id": 0,
+    "text": "k k talk to u some other time . want to sleep already",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.7734931236659643
+  },
+  {
+    "id": 1,
+    "text": "Thank you very much, benny! Haha. But i'm still younger than u. Haha.",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.6219076513241943
+  },
+  {
+    "id": 2,
+    "text": "Hmm I'll ask around ba",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.343855438876653
+  },
+  {
+    "id": 3,
+    "text": "Wat u eatin?",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.921620772079316
+  },
+  {
+    "id": 4,
+    "text": "so m an asset",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.3194657370786642
+  },
+  {
+    "id": 5,
+    "text": "Are you done with practice?",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.046371448328482
+  },
+  {
+    "id": 6,
+    "text": "At the round table outside tech svcs at the com1.",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -0.9963922664724381
+  },
+  {
+    "id": 7,
+    "text": "Ahhh. Work. I vaguely remember that! What does it feel like? Lol",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.222547939101137
+  },
+  {
+    "id": 8,
+    "text": "Y so late but i need to go n get da laptop...",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.5428785087261723
+  },
+  {
+    "id": 9,
+    "text": "ItÂs really tough time for our team, some of us are infected due to COVID or Viral, please take required precautions, donÂt go outside or try avoid gathering. Please be safe",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -0.7865600805725091
+  },
+  {
+    "id": 10,
+    "text": "Hey sorry ah... Ã free this sun?",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.014763591348375
+  },
+  {
+    "id": 11,
+    "text": "U're welcome... Caught u using broken english again...",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.629493201224962
+  },
+  {
+    "id": 12,
+    "text": "I've sent ü my part..",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.965467293283311
+  },
+  {
+    "id": 13,
+    "text": "Happiness cannot b owned, earned, worn or consumed. Happiness is a spiritual experience of living every min with love,grace n gratitude :-) :-)",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -0.3300242140742311
+  },
+  {
+    "id": 14,
+    "text": "Haha orh! I think he sleep le! Haha nice! yups hehe quite tiredactl:P ahh omg that would be super fun omg!! Go go go!",
+    "language": "English",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.5184942781317936
+  },
+  {
+    "id": 15,
+    "text": "special weekend offerexchange your old mattress and get upto discount on new branded mattresses like sleepwell kurlonadd b secrohiniph",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.3351719608201518
+  },
+  {
+    "id": 16,
+    "text": "shops in t m lewinfcuk kwals with multiplex food courtrestaurant on sohna rd gurgoan with assured return plp plan available call",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.8982708307429648
+  },
+  {
+    "id": 17,
+    "text": "now heres chance to win bill discount download my idea app register on it for free hurry click here httponelinktosmsmu to download",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 2.594134312748788
+  },
+  {
+    "id": 18,
+    "text": "PayPal We have limit your account due to safety concern Please visit http://paypal-login947.com before we be force to suspend service",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 2.4175836990533917
+  },
+  {
+    "id": 19,
+    "text": "Attn Taorem Premkumar Singh Your Incometax Refund be miscalculate please follow http://151.106.60.109/9449088546/ ITR to claim ITR-Dept Rajesh Kumar",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 2.0330183866820044
+  },
+  {
+    "id": 20,
+    "text": "lenskart comes near you visit lenskart store at kaiser bagh today get additional off cashback on all eyewear use voucher code holi",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1995746639319882
+  },
+  {
+    "id": 21,
+    "text": "FirstName you win our weekly competition at Tesco X Lee C XXX X Hugh XXX X Zoe J XX http://www.r5.ms/s/2rpkmo/1y2",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 2.2347046952324217
+  },
+  {
+    "id": 22,
+    "text": "happy sundays bsnl punjab launches exclusive sunday full talk value offer on topup of rs on all sundays till march tc apply",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.5791726238716688
+  },
+  {
+    "id": 23,
+    "text": "Life isnt about expecting and hoping its about doing and becoming.Its about the choices uve made and the ones ure about to make.Pick wisely!",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 0,
+    "python_decision_score": -1.3611923607750827
+  },
+  {
+    "id": 24,
+    "text": "payments just got easier with the mobile wallet download the app sign in get rs loaded in your wallet for freedownload now httpbitlyuesuol",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 2.214646151608559
+  },
+  {
+    "id": 25,
+    "text": "get flat off on only upto on jack n jones vero moda grab the coolest styles at unbelievable prices rush to your nearest krome stores now tc apply",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.932115157675737
+  },
+  {
+    "id": 26,
+    "text": "Dear Customer Your PYTMK CY have be expire today please call customer care no XXXXXXXXXX your PYTM have be block 24hrs THANK YOU PYTM TEAM",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 2.3978758383876566
+  },
+  {
+    "id": 27,
+    "text": "stay cool this winter get upto off on winter wear extra off on shopping from app tnc shop now on jabong app mdealcotmjyotewmtq",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 2.4037855037365765
+  },
+  {
+    "id": 28,
+    "text": "Do n't ignore your Health checkup Book Comprehensive Full Body Checkup at Rs.1199 only Incl XX Tests Code FREEDOM200 bit.ly/2WFRRIL XXXXXXXXXXX -Medlife",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 2.26877133560016
+  },
+  {
+    "id": 29,
+    "text": "Order Confirmed Your card charge for XXXX for Iphone Order id F068258M at Amzon.Delivery by tomorow If it be not you then Please Call +18189640016",
+    "language": "English",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.275647164209416
+  },
+  {
+    "id": 30,
+    "text": "फ्लिपकार्ट लॉगिन के लिए आपका एक बार का पासवर्ड (OTP) 384263 है। यह 10 मिनट के लिए मान्य है। कृपया अपना ओटीपी किसी के साथ साझा न करें।",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.0420310093166645
+  },
+  {
+    "id": 31,
+    "text": "पो दे: ():-:-:. कोई नौकरी की जरूरत नहीं है.",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.5293165207201052
+  },
+  {
+    "id": 32,
+    "text": "मैं 2 suc. Yar अब honon में अब उबाऊ हो सकता है.",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.58013434802957
+  },
+  {
+    "id": 33,
+    "text": "सेन ने बताया कि वह cb में अपने चाचा खर्च में शामिल होने जा रहा है",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.5936915467275252
+  },
+  {
+    "id": 34,
+    "text": "यह मुश्किल हो जाएगा, लेकिन मैं क्या करना होगा",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.7268282424950177
+  },
+  {
+    "id": 35,
+    "text": "बैंक ऑफ बड़ौदा: आपके खाते संख्या XX7203 में ₹850 की राशि सफलतापूर्वक जमा (Credit) की गई है। शेष राशि: ₹85174.00। धन्यवाद।",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.2242150815292436
+  },
+  {
+    "id": 36,
+    "text": "ठीक है, वे अभी भी हमें एक h नहीं जाने देंगे? कोज़ वे बाद में पता नहीं होगा. हम अपने कार्ड को सही बॉक्स में छोड़?",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.2022626437195227
+  },
+  {
+    "id": 37,
+    "text": "क्या तुम्हारे फोन के लिए एक अन्य ऐप प्राप्त करने का रास्ता नहीं मिला है, ना? क्या आप जाल स्टू के पास जा रहे हैं? क्या तुम उस काम को ले लो? प्रिय मुझे तुम्हारी ज़रूरत है. मैं तुम्हें देखने के लिए चाहता हूँ...",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.258381921256825
+  },
+  {
+    "id": 38,
+    "text": "अरे... महान सौदा... Bam Bam Bam 9 mar 5000/px, 16 मई तक $50 जमा करने के लिए",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -0.6837805268506929
+  },
+  {
+    "id": 39,
+    "text": "कोई ब4 गुरुवार नहीं",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.3882942149460213
+  },
+  {
+    "id": 40,
+    "text": "केवल सप्ताह के लिए विशेष दाम मिल गया... Hiz... Hiz... siz... stamo खा सकते हैं... ougoughughught जब तक मैं समाप्त नहीं कर सकते हैं, दोपहर के भोजन के खाने के लिए अभी भी खाने के लिए...",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.2676602936125927
+  },
+  {
+    "id": 41,
+    "text": "कुछ भी नहीं सुना है और वह मेरे पाठों का जवाब नहीं दे रहा है तो मैं अनुमान लगा रहा हूँ कि Jb शानदार है",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.3480174993949783
+  },
+  {
+    "id": 42,
+    "text": "ठीक है, एक छोटी सी संकट हो गया है और घर हो गया है इससे पहले कि उसने ऐसा सोचा कि यहाँ हो सकता है",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.6626589093751005
+  },
+  {
+    "id": 43,
+    "text": "चेक, टिक, चेक... बेबे",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.7517876038524924
+  },
+  {
+    "id": 44,
+    "text": "आप ऑनलाइन में नहीं हैं? क्यों?",
+    "language": "Hindi",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.140232890466732
+  },
+  {
+    "id": 45,
+    "text": "गूगल पे (Google Pay): आपको ₹2,450 का विशेष कैशबैक प्राप्त हुआ है। राशि अपने बैंक खाते में प्राप्त करने हेतु लिंक खोलें: phonepe-cashback-desk.online/claim",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.8388106706168044
+  },
+  {
+    "id": 46,
+    "text": "विद्युत नोटिस: उपभोक्ता क्र. XX4262, बकाया बिल ₹299 के कारण आज लाइन काटी जा रही है। डिस्कनेक्शन से बचने हेतु तुरंत बिजली अधिकारी से संपर्क करें: 9816202700",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.0567577932200658
+  },
+  {
+    "id": 47,
+    "text": "घर बैठे पार्ट-टाइम काम करके रोजाना ₹3,500 कमाएं! केवल यूट्यूब वीडियो लाइक और गूगल होटल रिव्यू का सरल कार्य। अभी टेलीग्राम ज्वाइन करें: work-from-home-india.top/join",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.8934829722043753
+  },
+  {
+    "id": 48,
+    "text": "विद्युत नोटिस: उपभोक्ता क्र. XX1441, बकाया बिल ₹1,250 के कारण आज लाइन काटी जा रही है। डिस्कनेक्शन से बचने हेतु तुरंत बिजली अधिकारी से संपर्क करें: 9821267237",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1910863998280208
+  },
+  {
+    "id": 49,
+    "text": "विद्युत नोटिस: उपभोक्ता क्र. XX6198, बकाया बिल ₹1,250 के कारण आज लाइन काटी जा रही है। डिस्कनेक्शन से बचने हेतु तुरंत बिजली अधिकारी से संपर्क करें: 9883534128",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.2098834375771728
+  },
+  {
+    "id": 50,
+    "text": "विद्युत नोटिस: उपभोक्ता क्र. XX3938, बकाया बिल ₹149 के कारण आज लाइन काटी जा रही है। डिस्कनेक्शन से बचने हेतु तुरंत बिजली अधिकारी से संपर्क करें: 9899913412",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1527231047005944
+  },
+  {
+    "id": 51,
+    "text": "हम अमेरिका से संपर्क करने की कोशिश कर रहे हैं. आज हम दिखाते हैं कि आप एक पाउंड 800 पुरस्कार Gugaged जीत लिया है। फोन 0.90000000000000000 डॉलर भूमि लाइन से। वैध 1221. वैध 12hs केवल 12hs.",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.2593041011936634
+  },
+  {
+    "id": 52,
+    "text": "विद्युत नोटिस: उपभोक्ता क्र. XX2193, बकाया बिल ₹850 के कारण आज लाइन काटी जा रही है। डिस्कनेक्शन से बचने हेतु तुरंत बिजली अधिकारी से संपर्क करें: 9894525678",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.131308245279615
+  },
+  {
+    "id": 53,
+    "text": "बीईएसईएस (BSES): प्रिय उपभोक्ता, आपका बिजली कनेक्शन आज रात 9:30 बजे काट दिया जाएगा क्योंकि पिछले माह का बिल ₹1,250 अपडेट नहीं हुआ है। बिल भुगतान करें: bses-bill-update.link",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.9814345637133406
+  },
+  {
+    "id": 54,
+    "text": "एक अच्छे दोस्त के लिए बधाई - एक अच्छे दोस्त अमेरिका में 2,000 पाउंड Xmia इनाम है। 2 दावा है कि आसान है, बस बस अब केवल 871273 बार कॉल!",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.6983496856048621
+  },
+  {
+    "id": 55,
+    "text": "नया TEXT55000 रुपये की गपशप 2 सींगी लोग, जो कि क्षेत्र 4 में हैं, 25 मुफ्त 2 सिर्फ मेले की खोज करें या समलैंगिक पाठ मित्र कॉम. TXT एक नाम 89993. 0.8555000 रुपये rl बंद कर दिया 2 cl",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.07883998134268544
+  },
+  {
+    "id": 56,
+    "text": "विद्युत नोटिस: उपभोक्ता क्र. XX9445, बकाया बिल ₹450 के कारण आज लाइन काटी जा रही है। डिस्कनेक्शन से बचने हेतु तुरंत बिजली अधिकारी से संपर्क करें: 9841523529",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1423679663308217
+  },
+  {
+    "id": 57,
+    "text": "यातायात पुलिस पुणे: आपके वाहन UP-01-CD-5806 पर ₹500 का ई-चालान दर्ज हुआ है। न्यायालय समन से बचने के लिए चालान एपीके (APK) डाउनलोड करें: traffic-police-challan.site/pay_fine",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.214903983208269
+  },
+  {
+    "id": 58,
+    "text": "यातायात पुलिस लखनऊ: आपके वाहन RJ-01-BC-2524 पर ₹2,000 का ई-चालान दर्ज हुआ है। न्यायालय समन से बचने के लिए चालान एपीके (APK) डाउनलोड करें: echallan-parivahan-gov.site/pay_fine",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.3936076287458845
+  },
+  {
+    "id": 59,
+    "text": "विद्युत नोटिस: उपभोक्ता क्र. XX2988, बकाया बिल ₹3,800 के कारण आज लाइन काटी जा रही है। डिस्कनेक्शन से बचने हेतु तुरंत बिजली अधिकारी से संपर्क करें: 9872363359",
+    "language": "Hindi",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.2793179881277528
+  },
+  {
+    "id": 60,
+    "text": "Axis Bank: Rs 850 credited to your account XX5706 via UPI/IMPS ref no 41168067. Total balance: Rs 65071.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -0.9695307842392697
+  },
+  {
+    "id": 61,
+    "text": "IRCTC Alert: Train 16607 departure rescheduled by 36 mins from Kolkata. PNR: 4033747850. Check live status on NTES.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.3411495196930567
+  },
+  {
+    "id": 62,
+    "text": "Aapka Jio plan recharge of Rs 299 successful. 100% daily data balance valid till 21-Sep. Manage your plan on MyJio app.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.0644602146224122
+  },
+  {
+    "id": 63,
+    "text": "IRCTC Alert: Train 19535 departure rescheduled by 36 mins from Pune. PNR: 4419317349. Check live status on NTES.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.1392929094463182
+  },
+  {
+    "id": 64,
+    "text": "IRCTC Alert: Train 13190 departure rescheduled by 12 mins from Chandigarh. PNR: 7489453257. Check live status on NTES.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.2549727902407641
+  },
+  {
+    "id": 65,
+    "text": "Canara Bank: Rs 450 credited to your account XX5107 via UPI/IMPS ref no 75779034. Total balance: Rs 42437.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.0320888185034747
+  },
+  {
+    "id": 66,
+    "text": "HDFC: Rs 850 debited from A/c XX4707 on POS/ATM transaction on 4-Aug. Available Balance: Rs 40136. If not done by you, forward SMS to 567676.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.1715836083378317
+  },
+  {
+    "id": 67,
+    "text": "Aapka Jio plan recharge of Rs 299 successful. 100% daily data balance valid till 28-Sep. Manage your plan on MyJio app.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -0.8880030117164633
+  },
+  {
+    "id": 68,
+    "text": "IRCTC Alert: Train 15381 departure rescheduled by 42 mins from Patna. PNR: 8093118668. Check live status on NTES.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.549198377481172
+  },
+  {
+    "id": 69,
+    "text": "Aapka OTP for Zepto order payment of Rs 7,200 is 869295. Valid for 5 mins. Kabhi bhi apna OTP kisi ko share mat karein.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.2102233345409228
+  },
+  {
+    "id": 70,
+    "text": "Aapka OTP for Blinkit order payment of Rs 299 is 479167. Valid for 5 mins. Kabhi bhi apna OTP kisi ko share mat karein.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.1218518462170424
+  },
+  {
+    "id": 71,
+    "text": "Aapka Jio plan recharge of Rs 2,499 successful. 100% daily data balance valid till 19-Sep. Manage your plan on MyJio app.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -0.9991926222130696
+  },
+  {
+    "id": 72,
+    "text": "Aapka OTP for Zepto order payment of Rs 850 is 492292. Valid for 5 mins. Kabhi bhi apna OTP kisi ko share mat karein.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.267996632015471
+  },
+  {
+    "id": 73,
+    "text": "Yes Bank: Rs 1,250 credited to your account XX1368 via UPI/IMPS ref no 48462422. Total balance: Rs 48130.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.3188129744185269
+  },
+  {
+    "id": 74,
+    "text": "PNB: Rs 1,250 credited to your account XX6641 via UPI/IMPS ref no 69940949. Total balance: Rs 81321.",
+    "language": "Hinglish",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.253193923760154
+  },
+  {
+    "id": 75,
+    "text": "Special Investigation Team se bol raha hoon. National Cyber Cell se bol raha hoon. Verification ke liye cooperate kijiye.",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1507828286206836
+  },
+  {
+    "id": 76,
+    "text": "Traffic Police Notice: Non-bailable warrant issued for traffic violation on vehicle RJ-05-DE-1534. Settle penalty with Traffic Sub-Inspector: 9841329612",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 0,
+    "python_decision_score": -0.07800342654445536
+  },
+  {
+    "id": 77,
+    "text": "BSES Notice: Dear Consumer, aapka power connection tonight 9:30 PM cut ho jayega unpaid bill Rs 149 ki wajah se. Update bill immediately: bses-bill-update.online",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1413402667916572
+  },
+  {
+    "id": 78,
+    "text": "loose upto kgs inches weight days money back guarntee ayurvedic noside effect govt apprvd details sms kare ayd",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.0270476530516848
+  },
+  {
+    "id": 79,
+    "text": "Namaste sir Aapke father ko accident ho gaya hai. Turant 50,000 bhej dijiye hospital ke liye.",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.9994601857805727
+  },
+  {
+    "id": 80,
+    "text": "Dear Customer, aapka Bank of Baroda A/c ending in XX2290 freeze hone wala hai. Card unblock karwane ke liye customer care number 9826879290 par call karein aur biometric verify karein.",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1159027123861964
+  },
+  {
+    "id": 81,
+    "text": "Delhi Police se bol raha hoon. Aapki morphed photos viral ho rahi hain. Cyber cell ne case register kar liya hai.",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.549000993415926
+  },
+  {
+    "id": 82,
+    "text": "Inspector Rajesh Kumar bol raha hoon. Aapke number se pornographic material WhatsApp groups mein bheja ja raha hai. FIR ho chuki hai.",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.4173360434509408
+  },
+  {
+    "id": 83,
+    "text": "Dhyan se suniye Aapke phone se illegal obscene content circulate ho raha hai. Digital arrest ho sakta hai.",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.0009854054454888
+  },
+  {
+    "id": 84,
+    "text": "Traffic Police Notice: Non-bailable warrant issued for traffic violation on vehicle UP-08-DE-8242. Settle penalty with Traffic Sub-Inspector: 9875056916",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 0,
+    "python_decision_score": -0.37452465671130497
+  },
+  {
+    "id": 85,
+    "text": "Full Paisa Vasool Sale at SMART Point Store,B2G1 Cadbury Dairy Milk Home Pk 126g,Rs 144 OFF Surf Excel Easy wash Det Pwdr 4Kg,Click bit.ly/2we4ywn T&C",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.9127260511333404
+  },
+  {
+    "id": 86,
+    "text": "Traffic Police Notice: Non-bailable warrant issued for traffic violation on vehicle MH-05-BC-4727. Settle penalty with Traffic Sub-Inspector: 9813885234",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 0,
+    "python_decision_score": -0.12242244104932953
+  },
+  {
+    "id": 87,
+    "text": "Part-time Job Opportunity! Earn daily Rs 6,000 from mobile. Simple Google Maps rating & YouTube like tasks. Daily instant payout. Join Telegram: t.me/hotel_review_income",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.094602857775377
+  },
+  {
+    "id": 88,
+    "text": "National Cyber Cell se bol raha hoon. Police station se bol raha hoon. Aapke mobile number se illegal messages bheje gaye hain.",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.59493061410722
+  },
+  {
+    "id": 89,
+    "text": "ACP Sharma bol raha hoon. Amazon se bol raha hoon. Aapka parcel hold hai, clearance charge ₹499 dena hoga.",
+    "language": "Hinglish",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.9005532697609029
+  },
+  {
+    "id": 90,
+    "text": "Sorry, I'll call later�buzy ryt nw�",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.2404391632743144
+  },
+  {
+    "id": 91,
+    "text": "Ok no prob�thanks�",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.7799539609818353
+  },
+  {
+    "id": 92,
+    "text": "Good Morning my Dear........... Have a great DAY�.ENJOY�",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -3.0171922368510615
+  },
+  {
+    "id": 93,
+    "text": "Oh ok�I'm watching here:) I know what to do",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.844395373798502
+  },
+  {
+    "id": 94,
+    "text": "Single line with a big meaning::::: \"Miss anything 4 ur \"Best Life\" but, don't miss ur best life for anything�",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.1758919229301035
+  },
+  {
+    "id": 95,
+    "text": "Sorry, I'll call later�buzy in some work..",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.471955651112846
+  },
+  {
+    "id": 96,
+    "text": "Ok thanks..dats wonderful�",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.4723768351560986
+  },
+  {
+    "id": 97,
+    "text": "She said,'' do u mind if I go into the bedroom for a minute ? '' ''OK'', I sed in a sexy mood. She came out 5 minuts latr wid a cake�",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.1348939499789055
+  },
+  {
+    "id": 98,
+    "text": "K. I will sent it again�.my goodness..",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.0894869341269304
+  },
+  {
+    "id": 99,
+    "text": "So many people seems to be special at first sight, But only very few will remain special to you till your last sight.. Maintain them till life ends.. take Care�",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -0.6766824214611612
+  },
+  {
+    "id": 100,
+    "text": "I don�t want to talk with u�don�t call me..",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.7704949542557042
+  },
+  {
+    "id": 101,
+    "text": "She said,'' do u mind if I go into the bedroom for a minute ? '' ''OK'', I sed in a sexy mood. She came out 5 minuts latr wid a cake...n My Wife,children were there with her�.",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.519589870529016
+  },
+  {
+    "id": 102,
+    "text": "Ok�tell me later�",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.171330384888978
+  },
+  {
+    "id": 103,
+    "text": "Ok�lets wait..",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -1.6939650177111214
+  },
+  {
+    "id": 104,
+    "text": "Ok. Fine�",
+    "language": "unknown",
+    "actual_label": 0,
+    "python_prediction": 0,
+    "python_decision_score": -2.619958678270811
+  },
+  {
+    "id": 105,
+    "text": "Fantasy Football is back on your TV. Go to Sky Gamestar on Sky Active and play £250k Dream Team. register now!SKY OPT OUT to 88088",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1092795963441544
+  },
+  {
+    "id": 106,
+    "text": "U have WoN £100 of Gift Vouchers week starting NOW call now 08718738034",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.3554236919910498
+  },
+  {
+    "id": 107,
+    "text": "cmon babe, Txt me your fantasy now babe -) need you now. All replies cost £1.50. 2 cancel send STOP",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.8697743966607754
+  },
+  {
+    "id": 108,
+    "text": "Hi 07734396840 IBH Customer Loyalty Offer: The NEW NOKIA6600 Mobile from ONLY £10 at TXTAUCTION!Txt word:START to No:81151",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1373898261779525
+  },
+  {
+    "id": 109,
+    "text": "URGENT! We are trying to contact U. Todays draw shows that you have won a £800 prize GUARANTEED. Call 09050003092 from land line. Claim C52. Valid 12hrs only",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.2774025933611295
+  },
+  {
+    "id": 110,
+    "text": "YOU ARE CHOSEN TO RECEIVE A £350 AWARD! Pls call claim number 09066364312 to collect your award which you are selected to receive as a valued mobile customer.",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1601341130072327
+  },
+  {
+    "id": 111,
+    "text": "GSOH? Good with the ladies?U could b a male gigolo? 2 join the uk's fastest growing mens club reply ONCALL. mjzgroup. 08714342399.2stop reply STOP. msg@£1.50rcvd",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.6011463700126445
+  },
+  {
+    "id": 112,
+    "text": "We would like to inform you that you have been recorded as leaving your home on 3 occasions yesterday. A fine of �35 has been added to your gov.uk�account. For further information please visit�gov.uk/ coronavirus-penalty-payment racking. Protect the NHS. Save lives",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.47248730037561604
+  },
+  {
+    "id": 113,
+    "text": "Last chance 2 claim ur £250 worth of discount vouchers-Text YES to 85022 now!SavaMob-member offers mobile T Cs 08717898036. £3.00 Sub. 16 .",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.946850326901231
+  },
+  {
+    "id": 114,
+    "text": "URGENT! We are trying to contact U. Todays draw shows that you have won a £800 prize GUARANTEED. Call 09050001809 from land line. Claim M95. Valid12hrs only",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.183087225267251
+  },
+  {
+    "id": 115,
+    "text": "YOU ARE CHOSEN TO RECEIVE A £450 AWARD! Pls call claim number 09066364315 to collect your award which you are selected to receive as a valued mobile customer.",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1321798867427897
+  },
+  {
+    "id": 116,
+    "text": "Last Chance! Claim ur £350 worth of discount vouchers today! Text SHOP to 85023 now! SavaMob, offers mobile! T Cs SavaMob POBOX84, M263UZ.",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 0.8986976296788165
+  },
+  {
+    "id": 117,
+    "text": "XMAS REWARD IS WAITING FOR YOU! Our computer has randomly picked you from our loyal mobile customers to receive a £400 reward. Just call 09066380644",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.2500491815196089
+  },
+  {
+    "id": 118,
+    "text": "Your SAM registration has been received! Click here to complete the process�http://rghst.xyz/NPHTmtb Reply STOP 2 opt out of future texts",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1178160113435136
+  },
+  {
+    "id": 119,
+    "text": "URGENT This is our 2nd attempt to contact U. Your £900 prize from YESTERDAY is still awaiting collection. To claim CALL NOW 09061702894",
+    "language": "unknown",
+    "actual_label": 1,
+    "python_prediction": 1,
+    "python_decision_score": 1.1857163846838152
+  }
+]

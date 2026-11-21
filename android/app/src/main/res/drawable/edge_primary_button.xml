@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"><item android:state_enabled="false"><shape><solid android:color="#9DA8D5"/><corners android:radius="17dp"/></shape></item><item><shape><gradient android:angle="0" android:startColor="#3947B5" android:endColor="#6A66E7"/><corners android:radius="17dp"/></shape></item></selector>
