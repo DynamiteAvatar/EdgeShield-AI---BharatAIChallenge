@@ -1,0 +1,17 @@
+# Large on-device model artifacts (>100 MB)
+*.pte
+*.bin
+*.model
+
+# Python / ML
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Android / IDE / Local credentials
+.gradle/
+build/
+local.properties
+.idea/
+.env
