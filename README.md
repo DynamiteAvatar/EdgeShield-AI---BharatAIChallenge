@@ -9,18 +9,48 @@
 
 > **PS3 — Bharat AI-SoC Challenge 2026-27** | SRM Institute of Science & Technology
 **Challenge Theme:** Cybersecurity & Digital Safety
-> ##  Project Team
+## 👥 Project Team
 
-### Project Guide
+<table>
+<tr>
+<td width="33%">
+
+### 🎓 Faculty Advisor
 **Dr. R. Jansi**
 
-### Project Lead
+Research Guidance, System Design Review, and Technical Mentorship
+
+</td>
+
+<td width="33%">
+
+### 🚀 Project Lead
 **Jagaputhran S**
 
-### Team Members & Developers
-- **Keerthivasan Krishnamoorty**
-- **Kartikeya Aripirala**
+Solution Architecture, AI/ML Development, System Integration, and Technical Documentation
+
+</td>
+
+<td width="33%">
+
+### 💻 Developers
+**Keerthivasan Krishnamoorty**  
+**Kartikeya Aripirala**
+
+Model Development, Implementation, Testing, and Evaluation
+
+</td>
+</tr>
+</table>
+
 ---
+
+### Organization
+
+**SRM Institute of Science and Technology**  
+**Bharat AI-SoC Challenge 2026-27**  
+**Problem Statement PS3:** On-device Threat, Phishing & Scam Detection  
+**Theme:** Cybersecurity & Digital Safety
 
 ## Overview
 
