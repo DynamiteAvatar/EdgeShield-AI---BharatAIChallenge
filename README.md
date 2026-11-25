@@ -8,7 +8,18 @@
 [![Privacy](https://img.shields.io/badge/Inference-100%25%20Offline-0D9488)](#)
 
 > **PS3 — Bharat AI-SoC Challenge 2026-27** | SRM Institute of Science & Technology
-**Challenge Theme:** Cybersecurity & Digital Safety 
+**Challenge Theme:** Cybersecurity & Digital Safety
+> ##  Project Team
+
+### Project Guide
+**Dr. R. Jansi**
+
+### Project Lead
+**Jagaputhran S**
+
+### Team Members & Developers
+- **Keerthivasan Krishnamoorty**
+- **Kartikeya Aripirala**
 ---
 
 ## Overview
@@ -178,14 +189,6 @@ To build the self-contained APK locally:
 
 ---
 
-## Team & Acknowledgments
-
-* **Team Members:** Jagaputhran S, Keerthivasan Krishnamoorthy, Kartikeya Aripirala
-* **Project Guide:** Dr. R Jansi
-* **Institution:** SRM Institute of Science & Technology
-
----
-
 ## References
 
 1. [ScamShield Dataset — Hugging Face (`sidzzz07/scamshield-dataset`)](https://huggingface.co/datasets/sidzzz07/scamshield-dataset)
@@ -195,18 +198,6 @@ To build the self-contained APK locally:
 5. [Llama 3.2 1B Instruct Model Card](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct)
 6. [scikit-learn `LinearSVC` & `TfidfVectorizer` Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
 7. [Android NDK & SDK Documentation](https://developer.android.com/ndk)
-##  Project Team
-
-### Project Guide
-**Dr. R. Jansi**
-
-### Project Lead
-**Jagaputhran S**
-
-### Team Members & Developers
-- **Keerthivasan Krishnamoorty**
-- **Kartikeya Aripirala**
-
 ---
 
 
