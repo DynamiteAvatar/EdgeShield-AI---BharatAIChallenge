@@ -242,6 +242,3 @@ This work was developed and submitted as part of the **Bharat AI-SoC Challenge 2
 This project is intended for academic, research, and competition purposes.
 
 ---
-
-# Secure. Detect. Protect. 🛡️
-### EdgeShield_AI
