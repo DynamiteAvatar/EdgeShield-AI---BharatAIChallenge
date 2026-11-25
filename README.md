@@ -1,12 +1,3 @@
-# 🛡️ EdgeShield_AI
-
-> An AI-powered on-device cybersecurity solution for real-time phishing, scam, and threat detection.
-
-## Project Information
-
-**Competition:** Bharat AI-SoC Challenge 2026-27  
-**Problem Statement:** PS3 - Cybersecurity & Digital Safety  
-**Challenge Theme:** On-device Threat, Phishing & Scam Detection
 # EdgeShield AI
 
 **Offline Multilingual SMS Scam Detection and AI-Assisted Explanation Using TF-IDF, Linear SVM, Llama 3.2 1B, and ExecuTorch**
@@ -16,8 +7,8 @@
 [![Accuracy](https://img.shields.io/badge/Test%20Accuracy-97.83%25-1E40AF)](#)
 [![Privacy](https://img.shields.io/badge/Inference-100%25%20Offline-0D9488)](#)
 
-> **PS3 — Bharat AI Challenge** | SRM Institute of Science & Technology
-
+> **PS3 — Bharat AI-SoC Challenge 2026-27** | SRM Institute of Science & Technology
+**Challenge Theme:** Cybersecurity & Digital Safety 
 ---
 
 ## Overview
