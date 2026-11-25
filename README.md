@@ -24,7 +24,7 @@ Research Guidance, System Design Review, and Technical Mentorship
 
 <td width="33%">
 
-### 🚀 Project Lead
+### Project Lead
 **Jagaputhran S**
 
 Solution Architecture, AI/ML Development, System Integration, and Technical Documentation
@@ -44,14 +44,6 @@ Model Development, Implementation, Testing, and Evaluation
 </table>
 
 ---
-
-### Organization
-
-**SRM Institute of Science and Technology**  
-**Bharat AI-SoC Challenge 2026-27**  
-**Problem Statement PS3:** On-device Threat, Phishing & Scam Detection  
-**Theme:** Cybersecurity & Digital Safety
-
 ## Overview
 
 **EdgeShield AI** is a privacy-first Android cybersecurity application that detects SMS phishing (*smishing*) across **English, Hindi, and Hinglish** and generates plain-language safety explanations entirely on-device—with zero cloud API calls.
