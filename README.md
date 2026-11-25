@@ -2,7 +2,7 @@
 
 > An AI-powered on-device cybersecurity solution for real-time phishing, scam, and threat detection.
 
-## 📌 Project Information
+## Project Information
 
 **Competition:** Bharat AI-SoC Challenge 2026-27  
 **Problem Statement:** PS3 - Cybersecurity & Digital Safety  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 **EdgeShield_AI** is a privacy-preserving, edge-based cybersecurity system designed to detect phishing attempts, scams, malicious URLs, and other digital threats directly on user devices.
 
@@ -20,7 +20,7 @@ This repository contains the complete project implementation, architecture, expe
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 ### PS3: Cybersecurity & Digital Safety
 **On-device Threat, Phishing & Scam Detection**
@@ -38,47 +38,24 @@ while operating efficiently on resource-constrained edge devices.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- ✅ On-device AI inference
-- ✅ Privacy-preserving architecture
-- ✅ Real-time phishing detection
-- ✅ Scam message classification
-- ✅ Malicious URL analysis
-- ✅ Lightweight deployment
-- ✅ Explainable threat scoring
-- ✅ Edge-first cybersecurity protection
-
----
-
-## 🏗️ Repository Contents
-
-```text
-EdgeShield_AI/
-│
-├── EdgeShield_AI_Technical_Report/
-│   ├── System Architecture
-│   ├── Design Documentation
-│   ├── Experimental Results
-│   ├── Coding Results
-│   ├── Performance Analysis
-│   └── Final Technical Report
-│
-├── Source/
-├── Models/
-├── Datasets/
-├── Notebooks/
-├── Results/
-└── README.md
-```
+- On-device AI inference
+- Privacy-preserving architecture
+- Real-time phishing detection
+- Scam message classification
+- Malicious URL analysis
+- Lightweight deployment
+- Explainable threat scoring
+- Edge-first cybersecurity protection
 
 ---
 
-## 📊 Technical Report
+## Technical Report
 
 The complete architecture, implementation details, model evaluation, coding results, performance benchmarks, and project findings are documented in:
 
-**📄 EdgeShield_AI_Technical_Report**
+**EdgeShield_AI_Technical_Report**
 
 The report is continuously updated with:
 - Architecture diagrams
@@ -91,21 +68,21 @@ The report is continuously updated with:
 
 ---
 
-## 👨‍💻 Project Team
+##  Project Team
 
-### 🎓 Project Guide
+### Project Guide
 **Dr. R. Jansi**
 
-### 🚀 Project Lead
+### Project Lead
 **Jagaputhran S**
 
-### 💻 Team Members & Developers
+### Team Members & Developers
 - **Keerthivasan Krishnamoorty**
 - **Kartikeya Aripirala**
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 - Python
 - Machine Learning
@@ -117,7 +94,7 @@ The report is continuously updated with:
 
 ---
 
-## 📈 Project Goals
+##  Project Goals
 
 - Detect phishing and scam attempts in real time.
 - Improve cybersecurity awareness through intelligent threat detection.
@@ -127,7 +104,7 @@ The report is continuously updated with:
 
 ---
 
-## 🔬 Research and Innovation
+## Research and Innovation
 
 EdgeShield_AI explores the use of Edge AI for cybersecurity by combining efficient machine learning models with real-time threat intelligence and explainable AI techniques. The project aims to demonstrate how modern AI systems can strengthen digital safety while operating directly on user devices.
 
